@@ -1,3 +1,6 @@
+build
+*egg*
+*.sw?
 *~
 
 # Compiled Object files
